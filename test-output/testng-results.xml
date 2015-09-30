@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="19711" started-at="2015-09-30T09:11:36Z" finished-at="2015-09-30T09:11:56Z">
+    <groups>
+    </groups>
+    <test name="AllTests" duration-ms="19711" started-at="2015-09-30T09:11:36Z" finished-at="2015-09-30T09:11:56Z">
+      <class name="Test.SignUpRebtelTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="beforeSuite" is-config="true" duration-ms="3922" started-at="2015-09-30T11:11:32Z" finished-at="2015-09-30T11:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="beforeClass" is-config="true" duration-ms="3271" started-at="2015-09-30T11:11:36Z" finished-at="2015-09-30T11:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testNavigationToSignUpPage()[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testNavigationToSignUpPage" duration-ms="3245" started-at="2015-09-30T11:11:39Z" finished-at="2015-09-30T11:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigationToSignUpPage -->
+        <test-method status="PASS" signature="testFieldNamesOnSignUpPage()[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testFieldNamesOnSignUpPage" duration-ms="304" started-at="2015-09-30T11:11:43Z" finished-at="2015-09-30T11:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFieldNamesOnSignUpPage -->
+        <test-method status="PASS" signature="testSignInLink()[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testSignInLink" duration-ms="821" started-at="2015-09-30T11:11:43Z" finished-at="2015-09-30T11:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInLink -->
+        <test-method status="PASS" signature="testDynamicCountryCode(java.lang.String, java.lang.String)[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testDynamicCountryCode" duration-ms="1744" started-at="2015-09-30T11:11:44Z" data-provider="countryList" finished-at="2015-09-30T11:11:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicCountryCode -->
+        <test-method status="PASS" signature="testDynamicCountryCode(java.lang.String, java.lang.String)[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testDynamicCountryCode" duration-ms="1539" started-at="2015-09-30T11:11:45Z" data-provider="countryList" finished-at="2015-09-30T11:11:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sweden]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[46]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicCountryCode -->
+        <test-method status="PASS" signature="testDynamicCountryCode(java.lang.String, java.lang.String)[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testDynamicCountryCode" duration-ms="1667" started-at="2015-09-30T11:11:47Z" data-provider="countryList" finished-at="2015-09-30T11:11:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicCountryCode -->
+        <test-method status="PASS" signature="testDynamicCountryCode(java.lang.String, java.lang.String)[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testDynamicCountryCode" duration-ms="1528" started-at="2015-09-30T11:11:49Z" data-provider="countryList" finished-at="2015-09-30T11:11:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[United Kingdom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicCountryCode -->
+        <test-method status="PASS" signature="testDynamicCountryCode(java.lang.String, java.lang.String)[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testDynamicCountryCode" duration-ms="2209" started-at="2015-09-30T11:11:50Z" data-provider="countryList" finished-at="2015-09-30T11:11:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Australia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[61]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicCountryCode -->
+        <test-method status="PASS" signature="testDynamicCountryCode(java.lang.String, java.lang.String)[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testDynamicCountryCode" duration-ms="1542" started-at="2015-09-30T11:11:52Z" data-provider="countryList" finished-at="2015-09-30T11:11:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[91]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicCountryCode -->
+        <test-method status="PASS" signature="testCompleteSignUp()[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="testCompleteSignUp" duration-ms="1565" started-at="2015-09-30T11:11:54Z" finished-at="2015-09-30T11:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompleteSignUp -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Test.SignUpRebtelTest@36b4cef0]" name="afterClass" is-config="true" duration-ms="209" started-at="2015-09-30T11:11:56Z" finished-at="2015-09-30T11:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Test.SignUpRebtelTest -->
+    </test> <!-- AllTests -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

@@ -1,0 +1,17 @@
+,xPathIdentifier,Xpath,ExpectedValue,United States,1
+,signUpButtonHomePage,//*[@class='btn btn-success'],,Sweden,46
+,signUpH1Text,//*[@class='gap-xs-top gap-m-bottom'],Sign Up,India,91
+,alreayHaveAccountText,//*[@class='panel form-signin']/p/span,Already have an account?,Australia,61
+,loginLink,//*[@class='panel form-signin']/p/a,Log In,Canada,1
+,SignUpLinkOnLoginPage,//*[@id='button-go-to-sign-up'],Sign Up,United Kingdom,44
+,weWillNeverPostText,//*[@class='gap-m-top']/div,We will never post anything without your permission.,<Last>,
+,emailTextbox,//*[@id='email'],Enter your email,,
+,CountrySpanText,//*[@id='country']/../span[1],Sweden,,
+,CountryInputBox,//*[@id='country'],,,
+,countryCode,//*[@for='phone']/div/span,,,
+,phoneNumber,//*[@id='phone'],Enter your phone number,,
+,pinInputBox,//*[@id='password'],,,
+,termsCheckbox,//*[@id='termsOfService'],,,
+,createNEwAccountButton,//*[@id='button-sign-up'],Create new account,,
+,rebtelHomeFooterlink,//*[@id='external']/li[1]/a,Rebtel Home,,
+,supportFooterLink,//*[@id='external']/li[2]/a,Support,,
